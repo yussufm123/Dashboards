@@ -10,7 +10,7 @@ I created a comprehensive Power BI dashboard analyzing employee data to track wo
 
 Tools Used: Excel, Power Query, Power BI, Data Visualization.
 
-### [**SaaS Revenue & Upsell Opportunity Analysis**]()
+### [**SaaS Revenue & Upsell Opportunity Analysis**](https://github.com/yussufm123/Dashboards/tree/main/Bananas_SaaS)
 
 I created an Excel and Power BI analysis using a SaaS subscription dataset to uncover revenue trends and identify upsell opportunities within the existing customer base. The project covers revenue growth by subscription tier, customer segmentation, and a prioritized list of accounts with the highest upsell potential.
 
